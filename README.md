@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Bhabat</h1>
 <h3 align="center">I'm a skilled software developer with a strong inclination towards data science and an analytical mindset. With a passion for problem-solving, I continuously strive to drive continuous improvement in my work.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna714&label=Profile%20views&color=0e75b6&style=flat" alt="krishna714" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna714" alt="krishna714" /></a> </p>
-
 - 📫 How to reach me **krishnabhabat714@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
